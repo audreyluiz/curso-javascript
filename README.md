@@ -1,1 +1,1 @@
-# curso-javascript
+# Curso javascript
